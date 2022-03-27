@@ -17,9 +17,20 @@ const Choose = () => {
 
     const [cart, setCart] = useState([]);
 
-    const AddToCart = (color)=> {
-        const newCart = [...cart, color];    //spread operator
-        setCart(newCart);
+    const AddToCart = (newColor)=> {
+        const addedToCart = cart.find(color => color.id === newColor.id);
+
+        if (addedToCart) {
+            alert('Already added in the cart');
+        }
+        else {
+            const newCart = [...cart, newColor];
+            setCart(newCart);
+        }
+    }
+
+    const clearCart = () => {
+        setCart([]);
     }
     
     return (
@@ -34,7 +45,7 @@ const Choose = () => {
                 </div>
 
                 <div className='col-4 bg-lightgray'>
-                    <Cart cart={cart} ></Cart>
+                    <Cart cart={cart} clearCart={clearCart} ></Cart>
                 </div>
             </div>
         </div>

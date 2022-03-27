@@ -14,7 +14,7 @@ const Colors = (props) => {
         <div className="col-sm-3 col-10 border">
                 <img className="w-75" src={img} alt="" />
                 <p>{name}</p>
-                <p>{price}</p>
+                <p>${price}</p>
                 <button onClick={()=> props.AddToCart(props.color)} className="btn btn-outline-primary">Add to cart
                 <FontAwesomeIcon icon={faShoppingCart} style={{marginLeft:'5px'}}></FontAwesomeIcon></button>
         </div>
