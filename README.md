@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Choose A Color For You!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The livesite for this project is available [Here](https://magical-chebakia-7feef1.netlify.app/).
 
 ## Available Scripts
 
