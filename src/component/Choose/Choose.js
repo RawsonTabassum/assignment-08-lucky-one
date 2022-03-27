@@ -10,7 +10,6 @@ const Choose = () => {
         fetch('colors.json')
             .then(res=> res.json())
             .then(data=> {
-                console.log(data);
                 setColor(data);
             })
     }, [])
