@@ -1,6 +1,6 @@
 # Choose A Color For You!
 
-The livesite for this project is available [Here](https://magical-chebakia-7feef1.netlify.app/).
+The livesite for this project is available [Here](https://assignment-08-lucky-color.netlify.app/).
 
 ## Project Description
 
