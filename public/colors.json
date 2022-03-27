@@ -1,74 +1,74 @@
 [
     {
       "id": "623f215f5d2f5e98083dd0a6",
-      "age": 28,
+      "price": 280,
       "name": "Azure",
-      "img": "./src/images/eight-01.png"
+      "img": "https://i.ibb.co/Jd0pzh3/eight-01.png"
     },
     {
       "id": "623f215f4ff7bf2d55210869",
-      "age": 30,
+      "price": 300,
       "name": "Majenta",
-      "img": "./src/images/eleven-01.png"
+      "img": "https://i.ibb.co/qrRz31w/eleven-01.png"
     },
     {
       "id": "623f215fe86b35ab241f442f",
-      "age": 29,
+      "price": 290,
       "name": "Pink",
-      "img": "./src/images/five-01.png"
+      "img": "https://i.ibb.co/LxYvKjp/five-01.png"
     },
     {
       "id": "623f215fec200239a844de20",
-      "age": 33,
+      "price": 330,
       "name": "Turquoise",
-      "img": "./src/images/four-01.png"
+      "img": "https://i.ibb.co/qMmqt9p/four-01.png"
     },
     {
       "id": "623f215fccbb559d31be02c8",
-      "age": 20,
+      "price": 200,
       "name": "Indigo",
-      "img": "./src/images/nine-01.png"
+      "img": "https://i.ibb.co/d25rqRZ/nine-01.png"
     },
     {
       "id": "623f215f0bc86a02d74e907b",
-      "age": 32,
+      "price": 302,
       "name": "Red",
-      "img": "./src/images/one-01.png"
+      "img": "https://i.ibb.co/hKSzCqP/one-01.png"
     },
     {
       "id": "623f215f8cb0866272fb20ea",
-      "age": 25,
+      "price": 250,
       "name": "Olive",
-      "img": "./src/images/seven-01.png"
+      "img": "https://i.ibb.co/3vYzJ6W/seven-01.png"
     },
     {
       "id": "623f215fb5ea0d557cd99826",
-      "age": 27,
+      "price": 270,
       "name": "Beige",
-      "img": "./src/images/six-01.png"
+      "img": "https://i.ibb.co/StXSLrm/six-01.png"
     },
     {
       "id": "623f215fd1d9cb77e96790d9",
-      "age": 22,
+      "price": 220,
       "name": "Purple",
-      "img": "./src/images/ten-01.png"
+      "img": "https://i.ibb.co/w4fqzNs/ten-01.png"
     },
     {
       "id": "623f215f9441178418de95af",
-      "age": 38,
+      "price": 380,
       "name": "Green",
-      "img": "./src/images/three-01.png"
+      "img": "https://i.ibb.co/xjvDQ7T/three-01.png"
     },
     {
       "id": "623f215fb35d06f0838d1c1a",
-      "age": 29,
+      "price": 290,
       "name": "Sage",
-      "img": "./src/images/twelve-01.png"
+      "img": "https://i.ibb.co/RC6fSrN/twelve-01.png"
     },
     {
       "id": "623f215fde916715f26596d0",
-      "age": 40,
+      "price": 400,
       "name": "Yellow",
-      "img": "./src/images/two-01.png"
+      "img": "https://i.ibb.co/6DdpGBj/two-01.png"
     }
   ]
